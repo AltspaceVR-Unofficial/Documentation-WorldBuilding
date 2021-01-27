@@ -6,3 +6,4 @@ _Please be advised: All documentation is created by Altspace users, and in no wa
 
 ## Table Of Contents
 * [Oculus Quest Configuration & Troubleshooting](/Quest%20Configuration%20%26%20Troubleshooting.md)
+* [Teleportation Navigation & Documenting The Layers In AltspaceVR](/World%20Layers.md)

@@ -1,4 +1,4 @@
-# World Building Documentation
+# Documentation for World Building (& Their Templates)
 ****
 Unofficial documentation and studies on world (template) building for [AltspaceVR](https://altvr.com).
 

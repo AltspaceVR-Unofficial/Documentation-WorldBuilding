@@ -14,6 +14,7 @@ Currently, for display on Oculus mobile platforms, AltSpaceVR requires some ligh
 
 <sup>a</sup> **Important Note:** _Do **NOT** use the "new Unity XR Plugin System" nor the `XR Plugin Management` section, as this will **at best** break compatibility with PC VR, and **at worst, prevent your world from building at all!**_
 ****
+# Troubleshooting
 ### Q. I already installed the `XR Plugin System`; Now what?!
 #### A. _Don't Panic_. Just follow these steps and you'll be "right as rain":
 1. Open `Package Manager` from the `Window` menu.
